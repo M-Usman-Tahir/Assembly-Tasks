@@ -1,7 +1,7 @@
 # Assembly-Tasks
 
-- Checking Grades for our subjects
-- Tic Tac Toe
+- [Checking Grades for our subjects](https://github.com/M-Usman-Tahir/Assembly-Tasks/tree/main/Grades%20(Dict))
+- [Tic Tac Toe](https://github.com/M-Usman-Tahir/Assembly-Tasks/tree/main/Tic%20Tac%20Toe%20(2%20player))
 
 
 MIPS is used as the language medium.  
