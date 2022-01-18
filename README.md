@@ -1,4 +1,4 @@
-# Assembly-Tasks
+# Assembly Tasks
 
 - [Checking Grades for our subjects](https://github.com/M-Usman-Tahir/Assembly-Tasks/tree/main/Grades%20(Dict))
 - [Tic Tac Toe](https://github.com/M-Usman-Tahir/Assembly-Tasks/tree/main/Tic%20Tac%20Toe%20(2%20player))
